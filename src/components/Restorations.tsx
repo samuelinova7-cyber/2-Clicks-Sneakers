@@ -7,7 +7,7 @@ const SERVICES = [
   { name: "Revitalização tecido", price: "a partir de R$ 34,90" },
   { name: "Pintura cabedal", price: "a partir de R$ 59,90" },
   { name: "Pintura camurça", price: "a partir de R$ 49,90" },
-  { name: "PINTURA MIDSOLE", price: "a partir de R$ 49,90" },
+  { name: "Pintura Midsole", price: "a partir de R$ 49,90" },
   { name: "Retoque pintura", price: "a partir de R$ 29,90" },
 ];
 
@@ -52,7 +52,7 @@ export default function Restorations() {
                 <p>• Prazo: 5 a 10 dias</p>
                 <p>• Pagamento: 100% antecipado (Dinheiro, Crédito, PIX)</p>
               </div>
-              <button className="bg-[#0066FF] text-white px-8 py-3 rounded-xl font-bold hover:bg-blue-600 transition-colors">
+              <button onClick={() => window.open('https://wa.me/5511983499718', '_blank')} className="bg-[#0066FF] text-white px-8 py-3 rounded-xl font-bold hover:bg-blue-600 transition-colors">
                 Enviar fotos para avaliação
               </button>
             </div>

@@ -25,7 +25,6 @@ export default function TurboClean() {
             <div className="border border-white/30 bg-white/10 rounded-2xl p-6 text-center min-w-[160px]">
               <p className="text-[10px] font-bold tracking-widest mb-1 opacity-80 uppercase">Até 24h</p>
               <p className="text-2xl font-bold">+ R$ 40</p>
-              <p className="text-[8px] mt-1 opacity-60">Consulte disponibilidade</p>
             </div>
           </div>
 

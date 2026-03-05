@@ -12,13 +12,13 @@ export default function Footer() {
               O primeiro serviço premium de limpeza e restauração de sneakers com armários inteligentes 24 horas.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
+              <a href="https://www.instagram.com/2clicks_sneakers?igsh=bzVpaGNkMDRlODJs" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
                 <Instagram className="w-5 h-5" />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
+              <a href="https://wa.me/5511983499718" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
                 <MessageCircle className="w-5 h-5" />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
+              <a href="https://g.page/r/CcStKfECPpBMEBM/review" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center hover:bg-[#0066FF] hover:border-[#0066FF] hover:text-white transition-all">
                 <MapPin className="w-5 h-5" />
               </a>
             </div>
@@ -37,7 +37,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold text-lg mb-6 text-black">Contato</h4>
             <ul className="space-y-4 text-gray-600">
-              <li>(11) 99999-9999</li>
+              <li>(11) 98349-9718</li>
               <li>contato@2clicks.com.br</li>
               <li>Mogi das Cruzes, SP</li>
             </ul>

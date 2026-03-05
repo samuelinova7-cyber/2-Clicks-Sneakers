@@ -59,8 +59,8 @@ export default function LaundrySection() {
                     <span className="text-[#0066FF]">💰</span> CICLOS E PREÇOS
                   </h3>
                   <div className="space-y-2 text-sm text-gray-400">
-                    <p className="flex justify-between"><span>Um Sexto (Dia a dia) - 1 CESTO</span> <span className="font-bold text-white">R$ 16,00</span></p>
-                    <p className="flex justify-between"><span>Dois Sextos (Edredons) - 2 CESTOS</span> <span className="font-bold text-white">R$ 34,00</span></p>
+                    <p className="flex justify-between"><span>1 CESTO</span> <span className="font-bold text-white">R$ 16,00</span></p>
+                    <p className="flex justify-between"><span>2 CESTOS</span> <span className="font-bold text-white">R$ 34,00</span></p>
                   </div>
                 </div>
                 <div>
