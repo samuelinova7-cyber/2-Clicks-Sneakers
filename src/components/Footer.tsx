@@ -38,7 +38,7 @@ export default function Footer() {
             <h4 className="font-bold text-lg mb-6 text-black">Contato</h4>
             <ul className="space-y-4 text-gray-600">
               <li>(11) 98349-9718</li>
-              <li>contato@2clicks.com.br</li>
+              <li>2clickssneakers@gmail.com</li>
               <li>Mogi das Cruzes, SP</li>
             </ul>
           </div>
