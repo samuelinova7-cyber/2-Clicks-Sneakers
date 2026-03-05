@@ -94,7 +94,7 @@ export default function Pricing() {
                 <span>Prazo: 5 a 10 dias</span>
               </div>
               
-              <button className={`w-full py-4 rounded-2xl font-bold text-sm transition-all active:scale-95 mb-8 ${
+              <button onClick={() => window.open('https://wa.me/5511983499718', '_blank')} className={`w-full py-4 rounded-2xl font-bold text-sm transition-all active:scale-95 mb-8 ${
                 plan.popular 
                   ? 'bg-white text-[#0066FF] hover:bg-blue-50' 
                   : plan.exclusive

@@ -75,7 +75,7 @@ export default function LaundrySection() {
               </div>
             </div>
             
-            <button className="mt-8 w-full inline-flex justify-center items-center px-8 py-4 bg-[#0066FF] text-white rounded-full font-bold text-sm uppercase tracking-wider hover:bg-blue-700 transition-all">
+            <button onClick={() => window.open('https://lavanderia2clicks-lovat.vercel.app/', '_blank')} className="mt-8 w-full inline-flex justify-center items-center px-8 py-4 bg-[#0066FF] text-white rounded-full font-bold text-sm uppercase tracking-wider hover:bg-blue-700 transition-all">
               Visitar site da Lavanderia
             </button>
           </div>

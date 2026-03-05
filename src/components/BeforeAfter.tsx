@@ -24,7 +24,7 @@ export default function BeforeAfter() {
           ))}
         </div>
 
-        <button className="bg-[#0066FF] text-white px-8 py-4 rounded-xl font-bold hover:bg-blue-700 transition-colors">
+        <button onClick={() => window.open('https://wa.me/5511983499718', '_blank')} className="bg-[#0066FF] text-white px-8 py-4 rounded-xl font-bold hover:bg-blue-700 transition-colors">
           Avaliar meu tênis agora
         </button>
       </div>

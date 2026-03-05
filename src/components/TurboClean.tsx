@@ -29,7 +29,7 @@ export default function TurboClean() {
           </div>
 
           {/* Right Side Button */}
-          <button className="bg-white text-[#0066FF] px-8 py-4 rounded-xl font-bold hover:bg-blue-50 transition-colors whitespace-nowrap">
+          <button onClick={() => window.open('https://wa.me/5511983499718', '_blank')} className="bg-white text-[#0066FF] px-8 py-4 rounded-xl font-bold hover:bg-blue-50 transition-colors whitespace-nowrap">
             Adicionar entrega expressa
           </button>
 
